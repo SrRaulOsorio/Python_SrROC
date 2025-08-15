@@ -20,6 +20,6 @@ comparacion = a + b > c
 #comparacion en casos reales usuario registrado en nuestra plataforma.
 #validacion de usuario
 contraseña_guardado_base_datos = "1234"
-contraseña_escrita = "123"
+contraseña_escrita = "1234"
 
 print(contraseña_guardado_base_datos == contraseña_escrita)
